@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Reading Notes
 
 You can use the [editor on GitHub](https://github.com/hasankhalifeh/readingnotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
+Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+1. You can read more about Markdown using this following link [google](https://google.com)
+2. If you want to master markdown you can use the follow link [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+## Examples for Markdown
+1. If you want to change the style of the word you can use ** infront and at the end. Another type is using * at the front and * at the end to make it *italic* 
+2. You can also input pictures into markdown using the following code ![Image of Ferrari](https://www.caranddriver.com/ferrari/f8-tributo)
 
 ```markdown
 Syntax highlighted code block
@@ -34,4 +41,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.   
