@@ -54,7 +54,43 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
-    
+
+## SHA References 
+Any reference to a commit SHA-1 hash the outcome will be converted into a Github
+
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+
+
+
+# Growth Mindset
+- What is growth mindest, it is a the growth and perservernace of ones knowledge and effort to become good at what he wants to do. It is a tool that is used for one to grow into something he wanted to become such as becoming a **great coder**.
+
+### Here is a table that describes growth mindset
+Fixed | Growth
+------------ | -------------
+Avoids | Embraces
+Loses Focus | Persits
+Views as fruitless | No pain no gain
+Ignores | Learns from
+Views as threats | Is inspired of 
+
+- Always have a postive mindset towards new things as it helps us win in every scene, due to not having a fixed solution for everything as everything needs change. 
+![Smiling](https://hatrabbits.com/wp-content/uploads/2018/07/ai.jpg)
+
+## Dedication 
+- Starting a new program or work could be very chanllenging at first espeically if you are in a new enviroment. Being in a new enviroment can be very draining and tiring but without any of the following.
+  1. Challengs
+  When Faced with challenges we always try to overcome them and many times we fail before getting to the solution.
+  2. Obstacles
+  During work or school or even life we face many obstacles during our lifetime we fail many times but we always try to avoid failer but it is a key to success.
+  3. Effort
+  Without putting any effort during our worktime we will not succeed we will just stay in our place thinking we moved ahead.
+  4. Critcism
+  You always need critcism if its a business or a school or even a restuartant critcism is always the best way to gather postive and negative feedback about your work . 
+  5. Success of Others 
+  You always hear stories of people either around you or people you have heard of coming from a very bad spot to a better place. THis gives us hope that everyone always has a chance to shine when the light seems hopeless. 
 ```markdown
 Syntax highlighted code block
 
