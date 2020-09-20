@@ -24,6 +24,37 @@ Markdown is just regular text with a few non-alphabetic characters thrown in, li
 - Link urls and other websites. 
 - Using Blockquotes wiht > 
 - Using and Inline code with '<>'
+
+## Syntax Highlights
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+``` 
+### There is a easier way by indent 4 spaces which will make it look like the following 
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+  
+## Task Lists
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+## Tables
+To create a table you must assembile a group of words and sepreate with - and |:
+The following is an example of how it should look like
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+    
 ```markdown
 Syntax highlighted code block
 
