@@ -13,7 +13,7 @@ Markdown is just regular text with a few non-alphabetic characters thrown in, li
 
 ## Examples for Markdown
 1. If you want to change the style of the word you can use ** infront and at the end. Another type is using * at the front and * at the end to make it *italic* 
-2. You can also input pictures into markdown using the following code ![Image of Ferrari](https://www.caranddriver.com/ferrari/f8-tributo)
+2. You can also input pictures into markdown using the following code ![Image of Ferrari](https://thenewswheel.com/wp-content/uploads/2020/02/2015-Ferrari-California.jpg)
 
 ```markdown
 Syntax highlighted code block
