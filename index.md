@@ -14,7 +14,16 @@ Markdown is just regular text with a few non-alphabetic characters thrown in, li
 ## Examples for Markdown
 1. If you want to change the style of the word you can use ** infront and at the end. Another type is using * at the front and * at the end to make it *italic* 
 2. You can also input pictures into markdown using the following code ![Image of Ferrari](https://thenewswheel.com/wp-content/uploads/2020/02/2015-Ferrari-California.jpg)
+3. Markdown has many more options that you can explore using the Master Markdown website that i have linked above.
 
+## Syntax Guide
+- There are headers which can be used with #
+- Emphasis depending on the * one or two to change the style.
+- Listing Items on Markdown 
+- Inserting images like shown above
+- Link urls and other websites. 
+- Using Blockquotes wiht > 
+- Using and Inline code with '<>'
 ```markdown
 Syntax highlighted code block
 
