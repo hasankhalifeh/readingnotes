@@ -11,6 +11,8 @@ Text Editor |
 Git Tutorial | 
 
 
-Link for [Read01-Markdown](https://hasankhalifeh.github.io/readingnotes/)
+Link for [Read01-Markdown](https://hasankhalifeh.github.io/readingnotes/Markdown-growthmindset)
 Link for [Read02-Text Editor](https://hasankhalifeh.github.io/Text-Editor/)
 Link For [Git-Tutorial](https://hasankhalifeh.github.io/readingnotes/Read03)
+
+C
