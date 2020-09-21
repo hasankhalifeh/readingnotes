@@ -6,9 +6,11 @@ My name is Hasan i am 29 years old with 0 experiance in coding. I always try to 
 
 Topic | Link
 -------------
-Markdown |  https://hasankhalifeh.github.io/readingnotes/
-Text Editor | https://hasankhalifeh.github.io/Text-Editor/
-Git Tutorial | https://hasankhalifeh.github.io/readingnotes/Read03
+Markdown |  
+Text Editor | 
+Git Tutorial | 
 
 
 Link for [Read01-Markdown](https://hasankhalifeh.github.io/readingnotes/)
+Link for [Read02-Text Editor](https://hasankhalifeh.github.io/Text-Editor/)
+Link For [Git-Tutorial](https://hasankhalifeh.github.io/readingnotes/Read03)
