@@ -1,4 +1,17 @@
-# Process and Design
+# Structure Chapter 1
+     - Structure your documents can be useful on word documents as it helps with spelling and grammer, but once finished you will rely on your HTML skills which describes the structure of your website. 
+     - HTML uses codes or elements to describe the structure of your website. Each element has an opening tag and a closing tag which are very crucial. Tags explain the information in between both tags. 
+     - In HTML there are three imporant factors the body, head and title. 
+
+# Extra Markup Chapter 8
+    - The evolution of HTML started off with HTML 4 which was released in 1997 and it had some presentational elements but where not recommended. Followed by XHTML 1.0 which was released in 2000 was a reformed version of its previous model. Followed by HTML 5 which is a bit different where the author did not have to close all the tags.
+    - There are many tags in HTML such as DOCTYPE, <!-- --> comments, ID attribute, class attribute, block elements, inline elements, grouping text and elements in block , grouping text and elements inline, Iframes, meta and escape characters. 
+
+# HTML5 Layout Chapter 17
+    - HTML5 introduces new elements in HTML. The new elements that it provides is that it allows you to divide up the parts of the page. The names indicate the kind of content you will find. 
+    - Diffrent type of tags that can be done in HTML are, Headers and footers, navigation, articles, aside, sections, heading groups, figures, sectioning elements, linking around block elements and helping older browsers understand.
+
+# Process and Design Chaper 18
 ### When creating a website you should ask yourself these four questions:
     - Who is the site for, it is for everyone not just yourself. Afterwards you need to find your target audience. Once you figured out who your target audience you should start asking questions about who will use your website. While doing this build a demo for yourself so you can see who will be people buying from your website.
     - Why is the site going to be used. WHy would people come to your website and buy from it when there are millions of others. This is where your website comes into play, depending on your interface, colors, smoothing scrolling and prices and there are many more that factor this. 
