@@ -14,5 +14,7 @@ Git Tutorial |
 Link for [Read01-Markdown](https://hasankhalifeh.github.io/readingnotes/Markdown-growthmindset)
 Link for [Read02-Text Editor](https://hasankhalifeh.github.io/Text-Editor/)
 Link for [Git-Tutorial](https://hasankhalifeh.github.io/readingnotes/Read03)
-Link for [Read04](https://github.com/hasankhalifeh/readingnotes/blob/master/Read04.md)
+Link for [Read04](https://github.com/hasankhalifeh/readingnotes/blob/master/Read04)
 Link for [Read05](https://hasankhalifeh.github.io/readingnotes/Read05)
+Link for [Read06b](https://hasankhalifeh.github.io/readingnotes/Read06b)
+Link for [Read07](https://hasankhalifeh.github.io/readingnotes/Read07)
