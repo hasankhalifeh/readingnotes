@@ -18,3 +18,4 @@ Link for [Read04](https://github.com/hasankhalifeh/readingnotes/blob/master/Read
 Link for [Read05](https://hasankhalifeh.github.io/readingnotes/Read05)
 Link for [Read06b](https://hasankhalifeh.github.io/readingnotes/Read06b)
 Link for [Read07](https://hasankhalifeh.github.io/readingnotes/Read07)
+Link for [Read08](https://hasankhalifeh.github.io/readingnotes/Read08)
